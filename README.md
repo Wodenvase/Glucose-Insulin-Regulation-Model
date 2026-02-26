@@ -1363,46 +1363,13 @@ Focus on:
 
 ---
 
-## 💡 Why This Model Matters
-
-### Scientific Impact
-- **10,000+ citations** for Bergman minimal model
-- **Gold standard** for insulin sensitivity measurement
-- **Foundation** for clinical glucose modeling
-
-### Clinical Impact
-- **Insulin pump algorithms** use variants of this model
-- **CGM interpretation** relies on these dynamics
-- **Drug development** uses model-based endpoints
-
-### Educational Impact
-- **Interdisciplinary**: Bridges endocrinology, mathematics, engineering
-- **Interpretable**: Every parameter has biological meaning
-- **Tractable**: Analytical methods accessible to students
-
-### Control Theory Showcase
-This is **control theory in action** in human physiology:
-- **Sensor**: Pancreatic β-cells (glucose detectors)
-- **Controller**: Insulin secretion (proportional to error)
-- **Actuator**: Insulin action on tissues
-- **Plant**: Glucose dynamics
-- **Setpoint**: 81 mg/dL (regulated variable)
-
-**Elegance**: Nature implements sophisticated control with molecular circuits.
-
-**Fragility**: Small parameter changes (disease) → catastrophic failure.
-
-**Restoration**: Therapy replaces broken components (exogenous insulin) or fixes parameters (insulin sensitizers).
-
----
-
-## 📄 License
+## License
 
 MIT License - free for research, teaching, clinical education.
 
 ---
 
-## 🙏 Acknowledgments
+## Contextual Literature
 
 - **Richard Bergman** for the minimal model framework
 - **Claudio Cobelli** for model extensions and validation
